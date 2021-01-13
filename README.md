@@ -1,1 +1,1 @@
-# Interactive-App-Based-on-Bokeh
+# Interactive Pricing App Based on Bokeh

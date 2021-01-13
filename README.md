@@ -8,6 +8,7 @@ It also contains some tests made using the library iPytest.
 The user has to run the following in his shell: 
 
 pip install nodejs
+
 pip install ipytest
 
 

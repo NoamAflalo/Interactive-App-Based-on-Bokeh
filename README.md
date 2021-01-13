@@ -14,7 +14,7 @@ pip install ipytest
 
 ## Usage
 
-The user can directly manipulate the GUI which is in the file name BIDAL_AFLALO_GUI. The user can price put or call option and compare the results given by Black-Scholes with those obtained by the Euler implicit scheme which is an approximation of Black-Scholes. Finally, the user can price an accumulator monitored continuously or discretely, using a constant volatility model (Black-Scholes) or a stochastic volatility model (Heston). If he choose to use Heston then the correponding volatility surface will appear on a new page.
+The user can directly manipulate the GUI which is in the file name BIDAL_AFLALO_GUI. The user can price put or call options and compare the results given by Black-Scholes with those obtained by the Euler implicit scheme which is an approximation of Black-Scholes. Finally, the user can price an accumulator monitored continuously or discretely, using a constant volatility model (Black-Scholes) or a stochastic volatility model (Heston). If he choose to use Heston then the correponding volatility surface will appear on a new page.
 
 The file BIDAL_AFLALO_DETAILED_CODE contains all the code, it is useful to understand how the project was built. 
 

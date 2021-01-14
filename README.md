@@ -11,6 +11,8 @@ pip install nodejs
 
 pip install ipytest
 
+Then open the file BIDAL_AFLALO_GUI in a jupyter notebook and select Kernel--> restart and run all
+
 
 ## Usage
 
